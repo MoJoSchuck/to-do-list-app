@@ -17,6 +17,10 @@ To use the application, simply open the `index.html` file in your web browser. E
 
 The application requires jQuery and jQuery UI for drag-and-drop functionality. These dependencies are included via CDN links in the HTML file.
 
+## Live Demo
+
+You can access the live demo of the application [here](https://mojoschuck.github.io/to-do-list-app/).
+
 ## Contributing
 
 Contributions to the project are welcome! If you have any ideas for improvements or new features, feel free to submit a pull request.
