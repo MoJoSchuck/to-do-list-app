@@ -24,3 +24,7 @@ Contributions to the project are welcome! If you have any ideas for improvements
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Screenshot
+
+![ToDoList App Screenshot](https://github.com/user-attachments/assets/cba4188e-f6ab-46af-b539-24d8415d7fa6)
